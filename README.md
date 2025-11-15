@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nilasydde
 - 👀 I’m interested in digital technologies
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning claude cli with vsc
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me esal33@gmail.com
 
